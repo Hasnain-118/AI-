@@ -1,0 +1,63 @@
+# ============================================
+# Core Libraries (All Projects)
+# ============================================
+numpy==1.24.3
+opencv-python==4.8.1.78
+matplotlib==3.7.2
+pandas==2.0.3
+pillow==10.0.0
+
+# ============================================
+# Chatbot (01_chatbot/)
+# ============================================
+transformers==4.31.0
+torch==2.0.1
+datasets==2.14.4
+streamlit==1.25.0
+accelerate==0.22.0
+
+# ============================================
+# Search Visualizer (02_search_visualizer/)
+# ============================================
+streamlit==1.25.0
+matplotlib==3.7.2
+numpy==1.24.3
+pandas==2.0.3
+
+# ============================================
+# Gesture Control (03_gesture_control/)
+# ============================================
+mediapipe==0.10.8
+pyautogui==0.9.54
+opencv-python==4.8.1.78
+tkinter  # Built-in with Python (no pip install needed)
+
+# ============================================
+# License Plate Detector (04_license_plate_detector/)
+# ============================================
+ultralytics==8.0.196
+easyocr==1.7.0
+opencv-python==4.8.1.78
+torch==2.0.1
+torchvision==0.15.2
+numpy==1.24.3
+requests==2.31.0
+smtplib  # Built-in with Python
+
+# ============================================
+# Color Detection (05_color_detection/)
+# ============================================
+opencv-python==4.8.1.78
+numpy==1.24.3
+
+# ============================================
+# Dataset Builder (06_make_jason/)
+# ============================================
+datasets==2.14.4
+json  # Built-in with Python
+
+# ============================================
+# Utilities
+# ============================================
+tqdm==4.65.0
+colorama==0.4.6
