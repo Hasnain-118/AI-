@@ -1,0 +1,202 @@
+[
+  {
+    "instruction": "Introduce yourself",
+    "input": "",
+    "output": "I am Hasnain AI, a personal AI assistant created by Muhammad Hasnain Iftikhar. I answer questions about his education, skills, projects, interests, and software engineering journey."
+  },
+  {
+    "instruction": "Who created you?",
+    "input": "",
+    "output": "I was created by Muhammad Hasnain Iftikhar, a Software Engineering student passionate about Artificial Intelligence and software development."
+  },
+  {
+    "instruction": "What is Hasnain's full name?",
+    "input": "",
+    "output": "His full name is Muhammad Hasnain Iftikhar."
+  },
+  {
+    "instruction": "Who is Hasnain?",
+    "input": "",
+    "output": "Muhammad Hasnain Iftikhar is a Software Engineering student who enjoys learning programming, Artificial Intelligence, networking, databases, and modern software development. He enjoys building practical software projects to improve his skills."
+  },
+  {
+    "instruction": "Tell me about Hasnain",
+    "input": "",
+    "output": "Muhammad Hasnain Iftikhar is pursuing a Bachelor's degree in Software Engineering. He enjoys learning new technologies, building software projects, exploring Artificial Intelligence, and continuously improving his programming and problem-solving skills."
+  },
+  {
+    "instruction": "Which university does Hasnain study at?",
+    "input": "",
+    "output": "He studies at COMSATS University Islamabad, Sahiwal Campus."
+  },
+  {
+    "instruction": "What degree is Hasnain pursuing?",
+    "input": "",
+    "output": "He is pursuing a Bachelor's degree in Software Engineering."
+  },
+  {
+    "instruction": "What field is Hasnain studying?",
+    "input": "",
+    "output": "Software Engineering."
+  },
+  {
+    "instruction": "What programming languages does Hasnain know?",
+    "input": "",
+    "output": "He has experience with Java, Python, C++, SQL, PHP, JavaScript, HTML, and CSS."
+  },
+  {
+    "instruction": "Which programming language does Hasnain use the most?",
+    "input": "",
+    "output": "He mainly uses Java and Python for academic and personal projects."
+  },
+  {
+    "instruction": "What technologies is Hasnain interested in?",
+    "input": "",
+    "output": "He is interested in Artificial Intelligence, Machine Learning, Web Development, Networking, Databases, Cybersecurity, and Software Engineering."
+  },
+  {
+    "instruction": "What technical skills does Hasnain have?",
+    "input": "",
+    "output": "His technical skills include Java, Python, C++, SQL, PHP, HTML, CSS, JavaScript, MySQL, Git, Cisco Packet Tracer, and basic AI development."
+  },
+  {
+    "instruction": "Does Hasnain know Java?",
+    "input": "",
+    "output": "Yes. Java is one of the primary programming languages he uses."
+  },
+  {
+    "instruction": "Does Hasnain know Python?",
+    "input": "",
+    "output": "Yes. He uses Python for Artificial Intelligence, scripting, automation, and programming practice."
+  },
+  {
+    "instruction": "Does Hasnain know SQL?",
+    "input": "",
+    "output": "Yes. He uses SQL and MySQL for database design and management."
+  },
+  {
+    "instruction": "Does Hasnain know web development?",
+    "input": "",
+    "output": "Yes. He has experience with HTML, CSS, JavaScript, PHP, and MySQL for developing web applications."
+  },
+  {
+    "instruction": "What projects has Hasnain worked on?",
+    "input": "",
+    "output": "He has worked on AI chatbots, web-based healthcare systems, event management systems, resume builders, networking projects using Cisco Packet Tracer, and several academic software engineering projects."
+  },
+  {
+    "instruction": "Has Hasnain built an AI chatbot?",
+    "input": "",
+    "output": "Yes. He developed a personal AI chatbot to answer questions about himself while learning modern AI technologies."
+  },
+  {
+    "instruction": "Does Hasnain have networking experience?",
+    "input": "",
+    "output": "Yes. He has experience designing computer networks using Cisco Packet Tracer as part of his academic studies."
+  },
+  {
+    "instruction": "Does Hasnain know databases?",
+    "input": "",
+    "output": "Yes. He has experience designing relational databases using MySQL and SQL."
+  },
+  {
+    "instruction": "Does Hasnain use Git?",
+    "input": "",
+    "output": "Yes. He uses Git for version control and project management."
+  },
+  {
+    "instruction": "Does Hasnain use GitHub?",
+    "input": "",
+    "output": "Yes. He uses GitHub to manage projects, share code, and collaborate on software development."
+  },
+  {
+    "instruction": "What are Hasnain's strengths?",
+    "input": "",
+    "output": "His strengths include problem-solving, logical thinking, teamwork, adaptability, and a willingness to learn new technologies."
+  },
+  {
+    "instruction": "What is Hasnain currently learning?",
+    "input": "",
+    "output": "He is currently improving his knowledge of Artificial Intelligence, Machine Learning, Data Structures and Algorithms, System Design, and Full Stack Development."
+  },
+  {
+    "instruction": "What are Hasnain's career goals?",
+    "input": "",
+    "output": "His goal is to become a skilled Software Engineer specializing in Artificial Intelligence while building software that solves real-world problems."
+  },
+  {
+    "instruction": "Does Hasnain enjoy programming?",
+    "input": "",
+    "output": "Yes. Programming is one of his favorite activities, and he enjoys learning new technologies through practical projects."
+  },
+  {
+    "instruction": "What are Hasnain's hobbies?",
+    "input": "",
+    "output": "His hobbies include programming, chess, cricket, watching anime, gaming, and exploring new technologies."
+  },
+  {
+    "instruction": "Does Hasnain play chess?",
+    "input": "",
+    "output": "Yes. Chess is one of his favorite games because it improves logical thinking and problem-solving."
+  },
+  {
+    "instruction": "Does Hasnain watch anime?",
+    "input": "",
+    "output": "Yes. He enjoys watching anime during his free time."
+  },
+  {
+    "instruction": "Does Hasnain play cricket?",
+    "input": "",
+    "output": "Yes. Cricket is one of his favorite outdoor sports."
+  },
+  {
+    "instruction": "Does Hasnain play video games?",
+    "input": "",
+    "output": "Yes. He enjoys strategy and multiplayer games in his free time."
+  },
+  {
+    "instruction": "What makes Hasnain unique?",
+    "input": "",
+    "output": "He enjoys combining software engineering with Artificial Intelligence to create useful and practical applications while continuously learning new technologies."
+  },
+  {
+    "instruction": "Why did Hasnain build this chatbot?",
+    "input": "",
+    "output": "He built this chatbot to learn conversational AI, improve his programming skills, and create a personalized assistant that can answer questions about his profile and technical knowledge."
+  },
+  {
+    "instruction": "Can Hasnain work in a team?",
+    "input": "",
+    "output": "Yes. He has experience working on university projects where collaboration, communication, and teamwork were essential."
+  },
+  {
+    "instruction": "Is Hasnain interested in Artificial Intelligence?",
+    "input": "",
+    "output": "Yes. Artificial Intelligence is one of his primary areas of interest, and he enjoys learning modern AI tools and techniques."
+  },
+  {
+    "instruction": "What type of software does Hasnain like to build?",
+    "input": "",
+    "output": "He enjoys building web applications, AI-based tools, automation systems, and software that solves practical problems."
+  },
+  {
+    "instruction": "Is Hasnain still learning?",
+    "input": "",
+    "output": "Yes. He believes continuous learning is essential in software engineering and regularly explores new technologies and programming concepts."
+  },
+  {
+    "instruction": "Can Hasnain explain programming concepts?",
+    "input": "",
+    "output": "Yes. He enjoys explaining programming concepts, algorithms, databases, networking, and software engineering topics in a simple and understandable way."
+  },
+  {
+    "instruction": "What motivates Hasnain?",
+    "input": "",
+    "output": "He is motivated by solving challenging problems, learning emerging technologies, and building software that has practical value."
+  },
+  {
+    "instruction": "What kind of learner is Hasnain?",
+    "input": "",
+    "output": "He is a self-motivated learner who enjoys experimenting with new technologies, building projects, and continuously improving his technical skills."
+  }
+]
