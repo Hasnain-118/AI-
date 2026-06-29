@@ -1,0 +1,58 @@
+🖐️ AI Gesture Control System
+An advanced computer vision system that enables hands-free control of your computer using hand gestures. Built with MediaPipe, OpenCV, and Tkinter, this system allows you to control media playback, volume, scrolling, and capture screenshots through intuitive hand gestures.
+
+🎯 Overview
+This project implements a real-time hand gesture recognition system that translates hand movements into computer commands. Using Google's MediaPipe for hand landmark detection, the system recognizes specific finger configurations and triggers corresponding actions. Perfect for presentations, media control, accessibility applications, or just showing off!
+
+Key Highlights
+Real-time Gesture Recognition: 30+ FPS performance
+
+Multi-platform Support: Windows, macOS, Linux
+
+Intuitive Dashboard: Real-time feedback and gesture reference
+
+Zero Training Required: Uses MediaPipe's pre-trained models
+
+Lightweight & Efficient: Minimal resource usage
+
+✨ Features
+Core Gestures
+Gesture	Action	Platform Support
+✊ Fist (0 fingers)	Play/Pause	All
+☝️ Index (1 finger)	Volume Up	All
+✌️ Two fingers	Volume Down	All
+3 Fingers	Scroll Up	All
+4 Fingers	Scroll Down	All
+🖐 Open Palm (5 fingers)	Screenshot	All
+👍 Thumb Only	Mute Toggle	All
+System Features
+🎥 Live Camera Feed: Real-time video with gesture overlay
+
+🖥️ GUI Dashboard: Visual feedback and gesture reference
+
+📸 Screenshot Capture: Timestamped screenshots
+
+🎮 Media Control: Play/Pause media playback
+
+🔊 Volume Control: System volume adjustment
+
+📜 Scrolling: Smooth page scrolling
+
+🔒 Cross-platform: Works on Windows, macOS, and Linux
+
+
+Camera Window Controls
+q: Quit the application
+
+Camera Feed: Shows hand landmarks and gesture overlay
+
+HUD: Displays current gesture and mode
+
+Acknowledgments
+MediaPipe: For excellent hand detection models
+
+OpenCV: For camera handling and image processing
+
+PyAutoGUI: For system control integration
+
+Google Research: For advancing gesture recognition technology
